@@ -6,9 +6,9 @@
 
 <!-- ==================== About Me ==================== -->
 <h2 align="left">📝 About Me</h2>
-<p align="left" style="font-size:15px; line-height:1.8; margin-bottom:20px;">
-📚 <b>UG, 3rd Year Student in Computer Engineering at TIET, Patiala.</b><br>
-💻 <b>Building projects and improving my coding and development skills.</b><br>
+<p align="left" style="font-size:15px; line-height:1.8; margin-bottom:40px;">
+📚 <b>UG, 3rd Year Student in Computer Engineering at TIET, Patiala.</b><br><br>
+💻 <b>Building projects and improving my coding and development skills.</b><br><br>
 🚀 <b>Excited to explore new opportunities and collaborate on projects.</b>
 </p>
 
