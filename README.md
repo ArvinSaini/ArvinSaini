@@ -4,9 +4,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ArvinSaini.ArvinSaini&left_text=Profile%20Views" />
 </div>
 
-<p align="left" style="font-size:15px; line-height:1.8; margin-bottom:40px;">
-📚 <b>UG, 3rd Year Student in Computer Engineering at TIET, Patiala.</b><br><br>
-💻 <b>Building projects and improving my coding and development skills.</b><br><br>
+<!-- ==================== About Me ==================== -->
+<h2 align="left">📝 About Me</h2>
+<p align="left" style="font-size:15px; line-height:1.8; margin-bottom:20px;">
+📚 <b>UG, 3rd Year Student in Computer Engineering at TIET, Patiala.</b><br>
+💻 <b>Building projects and improving my coding and development skills.</b><br>
 🚀 <b>Excited to explore new opportunities and collaborate on projects.</b>
 </p>
 
@@ -25,6 +27,8 @@
   />
 </div>
 
+<!-- ==================== Tech Stack ==================== -->
+<h2 align="left">💻 Tech Stack</h2>
 <div align="left" style="margin-bottom:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C logo" />
   <img width="15" />
@@ -49,6 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL logo" />
 </div>
 
+<!-- ==================== Contact Me ==================== -->
+<h2 align="left">📫 Contact Me</h2>
 <div align="left" style="margin-bottom:40px;">
   <a href="mailto:arvinsaini2304@gmail.com" target="_blank">
     <img 
@@ -75,7 +81,7 @@
   </a>
 </div>
 
-
+<!-- ==================== Coding Animation ==================== -->
 <div align="center" style="margin-bottom:40px;">
   <img 
        height="220" 
