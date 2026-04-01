@@ -5,30 +5,25 @@
 </div>
 
 <!-- ==================== About Me ==================== -->
-<h2 align="left">📝 About Me</h2>
+<h2 align="left">About Me</h2>
 <p align="left" style="font-size:17px; line-height:1.8; margin-bottom:40px;">
-📚 <b>UG, 3rd Year Computer Engineering Student at TIET, Patiala.</b><br><br>
-💻 <b>Building projects and improving my coding and development skills.</b><br><br>
-🚀 <b>Excited to explore new opportunities and collaborate on projects.</b>
+<b>UG, 3rd Year Computer Engineering Student at TIET, Patiala.</b><br><br>
+<b>Building projects and improving my coding and development skills.</b><br><br>
+<b>Excited to explore new opportunities and collaborate on projects.</b>
 </p>
 
 <div align="center" style="margin-bottom:40px;">
+
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=ArvinSaini&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1800&v=2&border_radius=10" 
-       height="150" 
-       width="380"
-       alt="GitHub stats graph" 
+       src="https://streak-stats.demolab.com?user=ArvinSaini&theme=dracula&hide_border=true&border_radius=10" 
+       height="160" 
+       alt="GitHub Streak"
   />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=ArvinSaini&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800&v=2&border_radius=10" 
-       height="150" 
-       width="300"
-       alt="Top languages graph" 
-  />
+
 </div>
 
 <!-- ==================== Tech Stack ==================== -->
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 <div align="left" style="margin-bottom:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C logo" />
   <img width="15" />
@@ -49,12 +44,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45" alt="Vite logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS logo" />
+
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL logo" />
+
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/render/ffffff" height="45" alt="Render logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Azure logo" />
 </div>
 
 <!-- ==================== Contact Me ==================== -->
-<h2 align="left">📫 Contact Me</h2>
+<h2 align="left">Contact Me</h2>
 <div align="left" style="margin-bottom:40px;">
   <a href="mailto:arvinsaini2304@gmail.com" target="_blank">
     <img 
